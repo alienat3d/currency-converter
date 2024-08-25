@@ -134,6 +134,7 @@ input[type="radio"]:focus-visible {
 	align-items: center;
 	min-width: 213px;
 	font-size: 28px;
+	font-weight: 600;
 	color: #fff;
 }
 
