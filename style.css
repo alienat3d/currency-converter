@@ -87,6 +87,7 @@ input[type="radio"]:focus-visible {
 }
 
 .title {
+	margin-top: 150px;
 	border-bottom: 2px dashed rgba(255, 255, 255, .75);
 	position: relative;
 	margin-bottom: 60px;
@@ -104,7 +105,7 @@ input[type="radio"]:focus-visible {
 }
 
 .converter {
-	margin-bottom: 15%;
+	margin-bottom: auto;
 }
 
 .converter__currency-choice {
